@@ -1,4 +1,4 @@
-# Alex
+
 <h1 align="center">Hi 👋, I'm I Alex Kumar</h1>
 <h3 align="center">A passionate learner with a deep interest in software development, constantly exploring and mastering new technologies.</h3>
 
